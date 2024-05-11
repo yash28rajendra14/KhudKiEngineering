@@ -1,0 +1,1 @@
+Here all the logics for the Payment processing lies which tells us how to use certain payment methods
